@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace Mission9_S4_G2.Models
+namespace Mission8_S4_G2.Models
 {
     public class QuadrantsContext : DbContext
     {
